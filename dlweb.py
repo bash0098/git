@@ -19,5 +19,5 @@ def get_downloadurl(url):
 
 
 if __name__ == '__main__':
-		url_ = 'http://client232v.dfs.shbt.qihoo.net:9000/liuzhenhai/11day.txt'
+		url_ = 'http://down.shouji.360.cn/10w.txt'
 		get_downloadurl(url_)
